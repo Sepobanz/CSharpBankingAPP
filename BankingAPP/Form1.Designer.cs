@@ -1,6 +1,6 @@
 ﻿namespace BankingAPP
 {
-    partial class Form1
+    partial class Form1 
     {
         /// <summary>
         /// Required designer variable.
@@ -579,7 +579,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(243, 296);
+            this.ClientSize = new System.Drawing.Size(243, 280);
             this.Controls.Add(this.tabControl1);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedDialog;
             this.Name = "Form1";
